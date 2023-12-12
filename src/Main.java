@@ -4,7 +4,7 @@ public class Main {
         Scanner variable = new Scanner(System.in);
         System.out.println("Hola");
 
-        EscucharMusica mimusica = new EscucharMusica("escuchar Música", 23, "Porque me siento solo", "El canto de la vaca burra", "Macehtazo");
+        EscucharMusica mimusica = new EscucharMusica("escuchar Música", 23, "Porque me siento solo", "si", "kygo");
         mimusica.Datos();
         mimusica.datosMusica();
 
